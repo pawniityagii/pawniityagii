@@ -41,6 +41,6 @@ More, with screenshots and write-ups, on the [portfolio](https://pawni-tyagi.ver
 ### GitHub
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pawniityagii&show_icons=true&hide_border=true&title_color=2F5D50&icon_color=B4702F&text_color=444444&count_private=true" alt="Pawni Tyagi's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pawniityagii&show_icons=true&hide_border=true&hide_rank=true&hide=issues,prs,contribs&title_color=2F5D50&icon_color=B4702F&text_color=444444&count_private=true" alt="Pawni Tyagi's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawniityagii&layout=compact&hide_border=true&title_color=2F5D50&text_color=444444" alt="Top languages" />
 </p>
